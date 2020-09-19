@@ -1,0 +1,68 @@
+.topnav a:hover{
+    background-color:red;
+    display:inline-block;
+    overflow: hidden;
+  }
+  .topnav{
+    text-align:center;
+    padding:0;
+    left:0;
+    right:0;
+    
+  }
+  
+  h4{
+    background-color:pink;
+    font-weight:25px;
+    font-family:Comic Sans MS;
+    padding:20px;
+    text-align:center;
+    font-size: 24px;
+    text-shadow:3px 3px 5px blue;
+    justify-content: center;
+  }
+  
+  body{
+    font-family:Times New Roman;
+    text-align:center;
+    padding-left:200px;
+    padding-top:100px;
+    justify-content: center;
+    
+  }
+  #two{
+    top:0;
+    right:0;
+    padding:0;
+    position:fixed;
+  
+  }
+  #flex{
+    top:0;
+    padding:0;
+    height:100px;
+    width:200px;
+    background-color: red;
+    left:0;
+    right:0;
+    position:fixed;
+  }
+  
+  #display{
+    background-color:lime;
+  padding:0;
+  position:fixed;
+   top:0;
+   left:0;
+    height:700px;
+    width:200px;
+  }
+  footer{
+    background-color:pink;
+    border:1px pink;
+    padding:10px;
+  }
+  #one{
+    text-align:center;
+  }
+  
